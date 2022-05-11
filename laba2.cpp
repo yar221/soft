@@ -1,8 +1,8 @@
-#include <iostream>
-#include <cstring>
-
 using namespace std;
-
+dd
+ddd
+dddwwww
+fftrr54ede
 class List{
 public:
 	List();
