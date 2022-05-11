@@ -16,13 +16,6 @@ public:
 
 	void clear();
 	
-	void getoutend();
-	
-	bool isempty();
-	
-	void print();
-
-private:
 
 	class Node
 	{
@@ -166,7 +159,7 @@ int main()
         << "7 выйти" << endl;
         
         char choice;
-        cin >> choice;
+        cin >> choice;xcvcxvcxvcxv
         string data;
         switch(choice){
             case '1': 
